@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Natalia Nikiforuk</h1>
+<h1 align="center">👋 My name is Natalia</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <img src="https://komarev.com/ghpvc/?username=nnikiforuk&label=Profile%20views&color=0e75b6&style=flat" alt="nnikiforuk" />
