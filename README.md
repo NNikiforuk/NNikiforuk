@@ -7,9 +7,8 @@
 - 📫 How to reach me: **natnikiforuk@gmail.com**
 
 - ⚡ Fun fact: **I know how to grow mushrooms and play the organ :)**
-
-
-
+<p></p>
+<p></p>
 
 
 <p align="center">
