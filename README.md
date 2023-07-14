@@ -8,6 +8,10 @@
 
 - ⚡ Fun fact: **I know how to grow mushrooms and play the organ :)**
 
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
