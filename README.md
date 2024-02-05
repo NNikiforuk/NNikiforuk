@@ -3,7 +3,7 @@
 <h3 align="center"><a target="_blank" href="https://nikidesigns.netlify.app/">Click to see my portfolio</a></h3>
 <img src="https://komarev.com/ghpvc/?username=nnikiforuk&label=Profile%20views&color=0e75b6&style=flat" alt="nnikiforuk" />
 
-- 🌱 I’m currently learning: Next.js, Typescript, MySQL, algorithms
+- 🌱 I’m currently learning: Next.js, Typescript, PostgreSQL
 
 - 📫 How to reach me: **natnikiforuk@gmail.com**
 
