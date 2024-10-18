@@ -3,7 +3,7 @@
 <h3 align="center"><a target="_blank" href="https://nikicodes.com//">Click to see my portfolio</a></h3>
 <img src="https://komarev.com/ghpvc/?username=nnikiforuk&label=Profile%20views&color=0e75b6&style=flat" alt="nnikiforuk" />
 
-- 🌱 I’m currently learning: Astron, Next.js, Swift
+- 🌱 I’m currently learning: Astro, Next.js, Swift
 
 - 📫 How to reach me: **natnikiforuk@gmail.com**
 
