@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning: Astro, Next.js, Swift
 
 - 📫 How to reach me: **natnikiforuk@gmail.com**
-
-- ⚡ Fun fact: I know how to grow mushrooms and play the organ :)
