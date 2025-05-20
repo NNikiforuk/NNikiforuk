@@ -2,6 +2,6 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img src="https://komarev.com/ghpvc/?username=nnikiforuk&label=Profile%20views&color=0e75b6&style=flat" alt="nnikiforuk" />
 
-- 🌱 I’m currently learning: Astro, Next.js, Swift
+- 🌱 I’m currently learning: Swift, algorithms
 
 - 📫 How to reach me: **natnikiforuk@gmail.com**
